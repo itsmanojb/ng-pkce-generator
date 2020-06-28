@@ -13,5 +13,5 @@ Proof Key for Code Exchange (PKCE) PKCE (pronounced "pixy") is a security extens
 > 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-![ScreenShot](/login.png?raw=true "")
+![ScreenShot](/screen.png?raw=true "")
 
