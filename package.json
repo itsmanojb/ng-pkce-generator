@@ -1,6 +1,14 @@
 {
   "name": "ng-pkce-generator",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "author": {
+    "name": "Manoj Barman",
+    "url": "https://manojbarman.in"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsmanojb/ng-pkce-generator.git"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -20,6 +28,7 @@
     "@angular/platform-browser-dynamic": "~7.2.0",
     "@angular/router": "~7.2.0",
     "core-js": "^2.5.4",
+    "crypto-js": "^4.0.0",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.26"
